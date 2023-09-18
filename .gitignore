@@ -22,7 +22,10 @@
 .tags
 .cache/
 .vscode/
-
+*.csv
+*.xls
+*.xlsx
+*.pdf
 # Python files #
 ################
 # setup.py working directory
